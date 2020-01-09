@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "797143255945",
+    "firebase_url": "https://activitylogin-9bfe0.firebaseio.com",
+    "project_id": "activitylogin-9bfe0",
+    "storage_bucket": "activitylogin-9bfe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797143255945:android:6ad4e09e3b89854a8b2f58",
+        "android_client_info": {
+          "package_name": "com.example.nisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797143255945-2n3aj5iqiof87722s8cu1c9u1lv937i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nisha",
+            "certificate_hash": "38834c71e607261dff16ed8ad03ddeb3bb69567e"
+          }
+        },
+        {
+          "client_id": "797143255945-uovv0s9etueh52gamohr4sb419ht3agl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nisha",
+            "certificate_hash": "b497f4dd8e658b623da144bc85e76ee3eb4ad489"
+          }
+        },
+        {
+          "client_id": "797143255945-0easikrrga1fcp556edf8ja8qsri5941.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6TpEncoeAXNh8-m9whVr3G0I7W_PKSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797143255945-0easikrrga1fcp556edf8ja8qsri5941.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
