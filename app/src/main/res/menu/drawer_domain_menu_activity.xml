@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/domainpage"
+            android:icon="@drawable/list"
+            android:title="@string/domain_page" />
+
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_feedback_black_24dp"
+            android:title="@string/feedback" />
+
+
+    </group>
+
+
+
+    <group android:checkableBehavior="single" >
+
+        <item android:title="@string/exit">
+
+            <menu>
+
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_exit_to_app_black_24dp"
+                    android:title="@string/logout" />
+
+            </menu>
+
+
+
+        </item>
+
+
+
+    </group>
+
+
+
+
+
+
+
+</menu>
