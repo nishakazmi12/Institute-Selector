@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Institution Selector</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password_log">Password</string>
+    <string name="username_log">Username</string>
+    <string name="not_registered_click_down_here">Not Registered? Click Down Here!</string>
+    <string name="technology">Technology</string>
+    <string name="arts">Arts</string>
+    <string name="domains">DOMAINS</string>
+    <string name="college_selector">College Selector</string>
+    <string name="feedback">Feedback</string>
+    <string name="domain_page">Domain Page</string>
+    <string name="logout">Logout</string>
+    <string name="select_a_particular_domain">Select a Particular Domain</string>
+    <string name="medicine">Medicine</string>
+    <string name="law">Law</string>
+    <string name="exit">Exit</string>
+    <string name="institution_list">Institution List</string>
+    <string name="rating">Rating</string>
+    <string name="budget">Budget</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="business">Business</string>
+    <string name="all_domain">All Domain</string>
+    <string name="all">All</string>
+    <string name="emailerror">Please enter your email</string>
+    <string name="pwderror">Please a password</string>
+    <string name="names">Names</string>
+
+
+</resources>
